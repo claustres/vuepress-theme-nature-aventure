@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-theme-nature-aventure",
+  "version": "0.0.1",
+  "description": "VuePress theme pour le Site du Club Nature-Aventure",
+  "main": "Layout.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claustres/vuepress-theme-nature-aventure.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Luc Claustres",
+  "bugs": {
+    "url": "https://github.com/claustres/vuepress-theme-nature-aventure"
+  },
+  "homepage": "https://github.com/claustres/vuepress-theme-nature-aventure#readme",
+  "dependencies": {}
+}
