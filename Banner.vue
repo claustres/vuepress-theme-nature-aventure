@@ -1,6 +1,6 @@
 <template>
   <p align="center">
-    <img src="/nature-aventure/logo.png" width="128" height="128"/>
+    <img src="/logo.png" width="128" height="128"/>
     <br />
     <i><small>Activités de pleine nature à Castelnaudary</small></i>
   </p>
