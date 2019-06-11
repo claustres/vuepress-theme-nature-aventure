@@ -18,5 +18,7 @@
     "url": "https://github.com/claustres/vuepress-theme-nature-aventure"
   },
   "homepage": "https://github.com/claustres/vuepress-theme-nature-aventure#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@vuepress/theme-default": "^1.0.1"
+  }
 }

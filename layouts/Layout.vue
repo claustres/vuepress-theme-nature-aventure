@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import Layout from '@default-theme/Layout.vue'
-import Banner from './Banner.vue'
+import Layout from '@parent-theme/layouts/Layout.vue'
+import Banner from '@theme/components/Banner.vue'
 
 export default {
   components: {
