@@ -19,6 +19,12 @@
   },
   "homepage": "https://github.com/claustres/vuepress-theme-nature-aventure#readme",
   "dependencies": {
-    "@vuepress/theme-default": "^1.0.1"
+    "@vuepress/theme-default": "^1.9.10"
+  },
+  "resolutions": {
+    "stylus": "https://github.com/stylus/stylus/archive/refs/tags/0.54.8.tar.gz"
+  },
+  "overrides": {
+      "stylus": "https://github.com/stylus/stylus/archive/refs/tags/0.54.8.tar.gz"
   }
 }
